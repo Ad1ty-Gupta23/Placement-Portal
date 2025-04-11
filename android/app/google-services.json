@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915333130723",
+    "project_id": "placement-7fe1d",
+    "storage_bucket": "placement-7fe1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915333130723:android:fa8e0ad7801cca2b67d8d6",
+        "android_client_info": {
+          "package_name": "com.example.placement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKftf1XEBYNvZ0m9sDZgDsIgqASJ_PiNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
